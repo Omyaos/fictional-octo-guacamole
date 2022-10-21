@@ -1,0 +1,35 @@
+
+h1 {
+    color: blueviolet;
+    border: 5px solid salmon;
+    background-color: azure;
+}
+
+div {
+    border: groove burlywood;
+    background-color: darkgray;
+}
+
+nav {
+    border: lightblue 10px solid;
+    background-color: black;
+    color: antiquewhite;
+}
+#soso {
+    font-weight: 900;
+    text-align: center;
+}
+#sisi {
+    text-decoration: line-through;
+}
+#dada {
+    color: blueviolet;
+}
+.didi {
+    font-family: sans-serif;
+    border: burlywood 5px double;
+}
+
+#tihi {
+    font-size: xx-small;
+}
